@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="FruitShop.Application/FruitShop.Application.csproj" />
+  <Project Path="FruitShop.Console/FruitShop.Console.csproj" Id="547c2bc4-02dc-4552-a947-13c73ae3e95d" />
+  <Project Path="FruitShop.Domain/FruitShop.Domain.csproj" />
+  <Project Path="FruitShop.Infrastructure/FruitShop.Infrastructure.csproj" />
+  <Project Path="FruitShop.UnitTests/FruitShop.UnitTests.csproj" />
+</Solution>

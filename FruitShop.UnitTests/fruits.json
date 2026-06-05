@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Apple",
+    "basePrice": 2.00,
+    "pricingType": "PerKg"
+  },
+  {
+    "name": "Banana",
+    "basePrice": 0.30,
+    "pricingType": "PerItem"
+  },
+  {
+    "name": "Cherry",
+    "basePrice": 5.00,
+    "pricingType": "BulkDiscount",
+    "discountThreshold": 2,
+    "discountPercent": 0.10
+  }
+]
