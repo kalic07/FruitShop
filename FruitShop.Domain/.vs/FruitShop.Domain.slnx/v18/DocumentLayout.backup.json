@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B564CA14-1235-4EFA-9B98-8A0EDF9AB2FB}|..\\FruitShop.Contracts\\FruitShop.Contracts.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.contracts\\requests\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564CA14-1235-4EFA-9B98-8A0EDF9AB2FB}|..\\FruitShop.Contracts\\FruitShop.Contracts.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.contracts\\requests\\orderitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD34F8-C7D7-C3C3-D054-7E3EB8089E6B}|..\\FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD34F8-C7D7-C3C3-D054-7E3EB8089E6B}|..\\FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD34F8-C7D7-C3C3-D054-7E3EB8089E6B}|..\\FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EC2B77-56FD-6868-0212-8A120CB162CF}|..\\FruitShop.UnitTests\\FruitShop.UnitTests.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.unittests\\fruittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EAFA8-48B5-43E6-8FA6-4C1BA27E6DAD}|..\\FruitShop.Api\\FruitShop.Api.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDD34F8-C7D7-C3C3-D054-7E3EB8089E6B}|..\\FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12889CDF-3956-4AB8-839C-CCCECBD9009E}|..\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3BBBF4-35D3-4234-935A-E493FE19FC88}|Solution Items{4D3BBBF4-35D3-4234-935A-E493FE19FC88}|C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4D3BBBF4-35D3-4234-935A-E493FE19FC88}|Solution Items{4D3BBBF4-35D3-4234-935A-E493FE19FC88}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\pricing\\peritempricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\pricing\\peritempricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\pricing\\perkilogrampricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\pricing\\perkilogrampricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564CA14-1235-4EFA-9B98-8A0EDF9AB2FB}|..\\FruitShop.Contracts\\FruitShop.Contracts.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.contracts\\fruitshop.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\entities\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\entities\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\definitions\\cherrydefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\definitions\\cherrydefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\definitions\\bananadefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\definitions\\bananadefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\definitions\\appledefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\definitions\\appledefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\factories\\fruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\factories\\fruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\definitions\\ifruitdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\definitions\\ifruitdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\interfaces\\ifruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\interfaces\\ifruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\pricing\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\pricing\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\pricing\\bulkdiscountpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\pricing\\bulkdiscountpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.domain\\fruitshop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5D8E48-BE06-44FD-B200-9B6543C121F2}|FruitShop.Domain\\FruitShop.Domain.csproj|solutionrelative:fruitshop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Validators\\CreateOrderValidator.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Application\\Validators\\CreateOrderValidator.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Validators\\CreateOrderValidator.cs",
+              "RelativeToolTip": "..\\FruitShop.Application\\Validators\\CreateOrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:37:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FruitTests.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\FruitTests.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.UnitTests\\FruitTests.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\FruitTests.cs",
+              "RelativeToolTip": "..\\FruitShop.UnitTests\\FruitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:33:53.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\FruitShop.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:31:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\FruitShop.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:31:22.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FruitShop.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:31:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-03T13:14:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerKilogramPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\PerKilogramPricingStrategy.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Pricing\\PerKilogramPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\PerKilogramPricingStrategy.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Pricing\\PerKilogramPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:04:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\Requests\\OrderItemRequest.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Contracts\\Requests\\OrderItemRequest.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\Requests\\OrderItemRequest.cs",
+              "RelativeToolTip": "..\\FruitShop.Contracts\\Requests\\OrderItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:52:21.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\Requests\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Contracts\\Requests\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\Requests\\CreateOrderRequest.cs*",
+              "RelativeToolTip": "..\\FruitShop.Contracts\\Requests\\CreateOrderRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:51:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FruitShop.Contracts",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\FruitShop.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\FruitShop.Contracts\\FruitShop.Contracts.csproj",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Contracts\\FruitShop.Contracts.csproj",
+              "RelativeToolTip": "..\\FruitShop.Contracts\\FruitShop.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T12:51:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Api\\Program.cs",
+              "RelativeToolTip": "..\\FruitShop.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:52:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FruitShop.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:49:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FruitShop.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Class1.cs",
+              "RelativeToolTip": "..\\FruitShop.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:49:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CherryDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\CherryDefinition.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Definitions\\CherryDefinition.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\CherryDefinition.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Definitions\\CherryDefinition.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:45:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BananaDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\BananaDefinition.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Definitions\\BananaDefinition.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\BananaDefinition.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Definitions\\BananaDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:45:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppleDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\AppleDefinition.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Definitions\\AppleDefinition.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\AppleDefinition.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Definitions\\AppleDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:45:12.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFruitDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\IFruitDefinition.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Definitions\\IFruitDefinition.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Definitions\\IFruitDefinition.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Definitions\\IFruitDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:40:54.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFruitFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Interfaces\\IFruitFactory.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Interfaces\\IFruitFactory.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Interfaces\\IFruitFactory.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Interfaces\\IFruitFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:34:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerItemPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:30:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BulkDiscountPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\BulkDiscountPricingStrategy.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Pricing\\BulkDiscountPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\BulkDiscountPricingStrategy.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Pricing\\BulkDiscountPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:29:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FruitFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Factories\\FruitFactory.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Factories\\FruitFactory.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Factories\\FruitFactory.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Factories\\FruitFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:26:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\IPricingStrategy.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Pricing\\IPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Pricing\\IPricingStrategy.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Pricing\\IPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:11:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:17:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:16:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\Fruit.cs",
+              "RelativeDocumentMoniker": "FruitShop.Domain\\Entities\\Fruit.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain\\Entities\\Fruit.cs",
+              "RelativeToolTip": "FruitShop.Domain\\Entities\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:16:38.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
