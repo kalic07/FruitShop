@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLENQqN4OHc=",
+  "dgSpecHash": "aNSgnoKw5a0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Console\\FruitShop.Console.csproj",
+  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Console\\FruitShop.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kabir\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.8\\microsoft.extensions.configuration.10.0.8.nupkg.sha512",
     "C:\\Users\\kabir\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.8\\microsoft.extensions.configuration.abstractions.10.0.8.nupkg.sha512",

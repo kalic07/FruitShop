@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3u30i4W0sAs=",
+  "dgSpecHash": "rg7ZSq5MlTM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\FruitShop.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.UnitTests\\FruitShop.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kabir\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kabir\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

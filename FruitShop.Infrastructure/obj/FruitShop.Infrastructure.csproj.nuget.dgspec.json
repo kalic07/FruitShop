@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj": {}
+    "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj": {
+    "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
+        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
         "projectName": "FruitShop.Application",
-        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
+        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
         "packagesPath": "C:\\Users\\kabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\obj\\",
+        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj"
+              "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj"
               }
             }
           }
@@ -356,14 +356,14 @@
         }
       }
     },
-    "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
+    "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj",
         "projectName": "FruitShop.Domain",
-        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj",
+        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj",
         "packagesPath": "C:\\Users\\kabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -698,14 +698,14 @@
         }
       }
     },
-    "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj": {
+    "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj",
         "projectName": "FruitShop.Infrastructure",
-        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -728,11 +728,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj": {
-                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj"
+              "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj": {
+                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj"
               },
-              "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj"
+              "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Domain\\FruitShop.Domain.csproj"
               }
             }
           }

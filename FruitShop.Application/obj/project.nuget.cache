@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUF5CLP1xh4=",
+  "dgSpecHash": "sZnKnlfkYzk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
+  "projectFilePath": "C:\\Users\\kabir\\OneDrive\\Documents\\Development\\FruitShop\\FruitShop.Application\\FruitShop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kabir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512"
   ],
