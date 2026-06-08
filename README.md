@@ -22,9 +22,9 @@ Example:
 
 | Fruit  | Base Price | Pricing Method                     |
 | ------ | ---------- | ---------------------------------- |
-| Apple  | $2.00      | Per Kg                             |
+| Apple  | $2.00      | Per Kilogram                             |
 | Banana | $0.30      | Per Item                           |
-| Cherry | $5.00      | Per Kg with 10% discount above 2kg |
+| Cherry | $5.00      | Per Kilogram with 10% discount above 2kg |
 
 ---
 
@@ -118,9 +118,9 @@ OrderLine
 
 ```text
 IPricingStrategy
-PerKgPricingStrategy
+PerKilogramPricingStrategy
 PerItemPricingStrategy
-DiscountedKgPricingStrategy
+DiscountedKilogramPricingStrategy
 ```
 
 The Domain layer contains no infrastructure concerns and no dependency injection.
@@ -146,9 +146,9 @@ PricingStrategyFactory
 ```text
 IPricingStrategyResolver
 
-PerKgPricingResolver
+PerKilogramPricingResolver
 PerItemPricingResolver
-DiscountedKgPricingResolver
+DiscountedKilogramPricingResolver
 ```
 
 #### Services
@@ -293,9 +293,9 @@ Example:
 ```text
 PricingType.PerKg
       ↓
-PerKgPricingResolver
+PerKilogramPricingResolver
       ↓
-PerKgPricingStrategy
+PerKilogramPricingStrategy
 ```
 
 Adding a new pricing strategy requires creating:
@@ -416,7 +416,7 @@ Example:
 public void CalculatePrice_ShouldReturnCorrectPrice()
 {
     // Arrange
-    var strategy = new PerKgPricingStrategy();
+    var strategy = new PerKilogramPricingStrategy();
 
     // Act
     var result = strategy.CalculatePrice(2m, 5m);
