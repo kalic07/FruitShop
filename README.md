@@ -416,16 +416,12 @@ Example:
 public void CalculatePrice_ShouldReturnCorrectPrice()
 {
     // Arrange
-
     var strategy = new PerKgPricingStrategy();
 
     // Act
-
-    var result =
-        strategy.CalculatePrice(2m, 5m);
+    var result = strategy.CalculatePrice(2m, 5m);
 
     // Assert
-
     result.Should().Be(10m);
 }
 ```
