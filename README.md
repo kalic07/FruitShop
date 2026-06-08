@@ -2,7 +2,7 @@
 
 ## Overview
 
-This solution demonstrates a small, extensible fruit pricing system built using C# and .NET 8.
+This solution demonstrates a small, extensible fruit pricing system built using C# and .NET 10.
 
 The application calculates the total cost of fruit orders while supporting multiple pricing models and promotional pricing rules. The design follows SOLID principles, Clean Architecture concepts, and common enterprise development practices.
 
