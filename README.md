@@ -351,7 +351,7 @@ Fruit names and property names are processed case-insensitively.
 
 ## Prerequisites
 
-* .NET 8 SDK or later
+* .NET 10 SDK or later
 
 Verify installation:
 
