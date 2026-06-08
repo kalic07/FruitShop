@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF01DEAD-6D60-F892-228B-004D894DE636}|FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\interfaces\\ipricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF01DEAD-6D60-F892-228B-004D894DE636}|FruitShop.Application\\FruitShop.Application.csproj|solutionrelative:fruitshop.application\\interfaces\\ipricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72D031A5-262F-7A30-47A3-1575509F6F38}|FruitShop.UnitTests\\FruitShop.UnitTests.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.unittests\\pricing\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D031A5-262F-7A30-47A3-1575509F6F38}|FruitShop.UnitTests\\FruitShop.UnitTests.csproj|solutionrelative:fruitshop.unittests\\pricing\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF01DEAD-6D60-F892-228B-004D894DE636}|FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\interfaces\\ipricingstrategyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ACB8B34-D9C9-5A2E-0FFB-3A47BAC8C00C}|FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.infrastructure\\factories\\fruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ACB8B34-D9C9-5A2E-0FFB-3A47BAC8C00C}|FruitShop.Infrastructure\\FruitShop.Infrastructure.csproj|solutionrelative:fruitshop.infrastructure\\factories\\fruitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D031A5-262F-7A30-47A3-1575509F6F38}|FruitShop.UnitTests\\FruitShop.UnitTests.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.unittests\\pricing\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D031A5-262F-7A30-47A3-1575509F6F38}|FruitShop.UnitTests\\FruitShop.UnitTests.csproj|solutionrelative:fruitshop.unittests\\pricing\\pricingenginetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF01DEAD-6D60-F892-228B-004D894DE636}|FruitShop.Application\\FruitShop.Application.csproj|c:\\users\\kabir\\onedrive\\documents\\dev\\fruitshop\\fruitshop.application\\pricing\\pricingstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,8 +113,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 121,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -132,74 +128,21 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPricingEngine.cs",
-              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IPricingEngine.cs",
-              "RelativeDocumentMoniker": "FruitShop.Application\\Interfaces\\IPricingEngine.cs",
-              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IPricingEngine.cs",
-              "RelativeToolTip": "FruitShop.Application\\Interfaces\\IPricingEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T03:48:02.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFruitCatalog.cs",
-              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
-              "RelativeDocumentMoniker": "FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
-              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
-              "RelativeToolTip": "FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T03:48:01.136Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-05T03:36:03.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PricingEngineTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Pricing\\PricingEngineTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Pricing\\PricingEngineTests.cs",
               "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Pricing\\PricingEngineTests.cs",
               "RelativeToolTip": "FruitShop.UnitTests\\Pricing\\PricingEngineTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T03:09:21.209Z"
+              "WhenOpened": "2026-06-05T03:09:21.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "FruitShop.Application\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
-              "RelativeToolTip": "FruitShop.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T02:56:16.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PricingStrategyFactory.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Pricing\\PricingStrategyFactory.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Pricing\\PricingStrategyFactory.cs",
@@ -211,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PricingStrategyFactoryTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Infrastructure\\PricingStrategyFactoryTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Infrastructure\\PricingStrategyFactoryTests.cs",
@@ -223,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\DependencyInjection.cs",
@@ -235,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Console\\Program.cs",
               "RelativeDocumentMoniker": "FruitShop.Console\\Program.cs",
@@ -247,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "JsonFruitCatalogTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Infrastructure\\JsonFruitCatalogTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Infrastructure\\JsonFruitCatalogTests.cs",
@@ -259,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "BulkDiscountPricingStrategyTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Pricing\\BulkDiscountPricingStrategyTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Pricing\\BulkDiscountPricingStrategyTests.cs",
@@ -271,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FruitFactory.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\Factories\\FruitFactory.cs",
               "RelativeDocumentMoniker": "FruitShop.Infrastructure\\Factories\\FruitFactory.cs",
@@ -283,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IPricingStrategyResolver.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IPricingStrategyResolver.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Interfaces\\IPricingStrategyResolver.cs",
@@ -295,7 +238,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "IFruitCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
+              "RelativeDocumentMoniker": "FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
+              "RelativeToolTip": "FruitShop.Application\\Interfaces\\IFruitCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:48:01.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FruitShop.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "FruitShop.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:56:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PricingEngineTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Application\\PricingEngineTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Application\\PricingEngineTests.cs",
@@ -307,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "PerKilogramPricingStrategyTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Pricing\\PerKilogramPricingStrategyTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Pricing\\PerKilogramPricingStrategyTests.cs",
@@ -319,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "PerItemPricingStrategyTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Pricing\\PerItemPricingStrategyTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Pricing\\PerItemPricingStrategyTests.cs",
@@ -331,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "PerKilogramPricingResolver.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Pricing\\PerKilogramPricingResolver.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Pricing\\PerKilogramPricingResolver.cs",
@@ -343,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "PerItemPricingResolver.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Pricing\\PerItemPricingResolver.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Pricing\\PerItemPricingResolver.cs",
@@ -355,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "FruitDefinition.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Catalog\\FruitDefinition.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Catalog\\FruitDefinition.cs",
@@ -367,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "JsonFruitCatalog.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\Catalog\\JsonFruitCatalog.cs",
               "RelativeDocumentMoniker": "FruitShop.Infrastructure\\Catalog\\JsonFruitCatalog.cs",
@@ -379,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "FruitShop.Infrastructure\\DependencyInjection.cs",
@@ -391,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "OrderTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Domain\\OrderTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Domain\\OrderTests.cs",
@@ -403,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "FruitCatalogOptions.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\Catalog\\FruitCatalogOptions.cs",
               "RelativeDocumentMoniker": "FruitShop.Infrastructure\\Catalog\\FruitCatalogOptions.cs",
@@ -415,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "FruitTests.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.UnitTests\\Domain\\FruitTests.cs",
               "RelativeDocumentMoniker": "FruitShop.UnitTests\\Domain\\FruitTests.cs",
@@ -427,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Application\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "FruitShop.Application\\Interfaces\\IOrderService.cs",
@@ -439,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "PerItemPricingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
               "RelativeDocumentMoniker": "FruitShop.Domain\\Pricing\\PerItemPricingStrategy.cs",
@@ -451,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "FruitConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\kabir\\OneDrive\\Documents\\Dev\\FruitShop\\FruitShop.Infrastructure\\Catalog\\FruitConfiguration.cs",
               "RelativeDocumentMoniker": "FruitShop.Infrastructure\\Catalog\\FruitConfiguration.cs",
@@ -463,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
